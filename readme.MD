@@ -1,3 +1,3 @@
-# Configuration server
+# Configuration repo
 
-Spring-based configration server
+Spring-based configuration repository
